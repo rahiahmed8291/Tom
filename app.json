@@ -2,7 +2,7 @@
   "name": "TOM-PAPA",
   "version": "2.4.5",
   "description": "TOM, the best WhatsApp Bot",
-  "logo": "https://i.imgur.com/1DkLGVk.jpeg",
+  "logo": "",
   "keywords": ["whatsapp", "bot", "md"],
   "repository": "https://github.com/rahiahmed8291/Tom",
   "stack": "container",
@@ -17,11 +17,11 @@
     },
     "BOT_NAME": {
       "description": "Enter your bot name here",
-      "value": "Kango-Bot",
+      "value": "tom-Bot",
       "required": false
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
+      "description": "Enter your number here, starting with country code E.g +8801711xxxxxxx",
       "value": "",
       "required": true
     },
@@ -32,12 +32,12 @@
     },
     "STICKER_PACK_NAME": {
       "description": "Sticker pack name",
-      "value": "Kango",
+      "value": "tom",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Sticker author name",
-      "value": "Kango",
+      "value": "tom",
       "required": false
     },
     "HEROKU_API_KEY": {
