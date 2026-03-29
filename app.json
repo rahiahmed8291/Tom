@@ -4,7 +4,7 @@
   "description": "TOM, the best WhatsApp Bot",
   "logo": "https://i.imgur.com/1DkLGVk.jpeg",
   "keywords": ["whatsapp", "bot", "md"],
-  "repository": "https://github.com/OfficialKango/KANGO-XMD-LITE",
+  "repository": "https://github.com/rahiahmed8291/Tom",
   "stack": "container",
   "scripts": {
     "start": "node index.js"
